@@ -1,0 +1,2 @@
+# Nexus-Trader
+NEXUS / TRADER → QUALIFY → PAPER TRADE → MEASURE
