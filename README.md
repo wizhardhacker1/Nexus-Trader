@@ -15,8 +15,8 @@ NEXUS combines market scanning, technical analysis, trade qualification, paper t
 ---
 
 ## Dashboard
+<img width="1695" height="709" alt="image" src="https://github.com/user-attachments/assets/b2866066-8085-4474-8fe5-b24879b4fca6" />
 
-<img width="1690" height="730" alt="image" src="https://github.com/user-attachments/assets/8345f07c-e3e0-432d-a345-2ae3aa2bc884" />
 
 The main dashboard provides a centralized view of market activity, trading candidates, signals, account information, and system status.
 
